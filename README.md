@@ -25,7 +25,7 @@ Node.js and npm (Node Package Manager) installed on your machine. You can downlo
 1. Clone the repository to your local machine using Git:
 git clone [repository-url]
 2. Navigate to the project directory:
-3. cd [project-directory]
+3. cd React-JS-Assignment
 4. Install project dependencies using npm:
 npm install or npm i
 5. Running the Development Server
