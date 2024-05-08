@@ -23,7 +23,7 @@ To run this project locally on your machine, follow these steps:
 Node.js and npm (Node Package Manager) installed on your machine. You can download and install Node.js from nodejs.org.
 ## Installation Steps
 1. Clone the repository to your local machine using Git:
-git clone [repository-url]
+git clone https://github.com/MohdShahzil29/React-JS-Assignment
 2. Navigate to the project directory:
 3. cd React-JS-Assignment
 4. Install project dependencies using npm:
