@@ -1,4 +1,4 @@
-import React from 'react';
+// import React from 'react';
 import modelImg from '../../assets/model.png';
 import sparkle from '../../assets/spark, sparkle, 26.png';
 import BoostImage from '../../assets/Group 1171281573.png';

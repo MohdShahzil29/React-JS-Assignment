@@ -1,4 +1,3 @@
-import React from 'react'
 import Logo from '../../../assets/logo.png'
 import { IoMdClose } from "react-icons/io"
 import { useNavigate } from 'react-router-dom';

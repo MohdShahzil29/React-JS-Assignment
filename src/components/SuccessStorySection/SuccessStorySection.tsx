@@ -1,5 +1,3 @@
-import React from 'react'
-
 const SuccessStorySection = () => {
     return (
         <div className='text-center mt-[4.5rem]'>

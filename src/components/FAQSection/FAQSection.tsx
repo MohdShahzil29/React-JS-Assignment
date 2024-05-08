@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import { FaPlusCircle, FaMinusCircle } from 'react-icons/fa';
 import FAQImage from '../../assets/Union.png';
 

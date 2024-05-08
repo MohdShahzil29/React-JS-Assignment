@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react';
+import { useEffect, useState } from 'react';
 import Logo from '../../../assets/logo.png';
 import { FaCheck } from 'react-icons/fa6';
 import { useNavigate } from 'react-router-dom';
